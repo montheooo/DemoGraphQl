@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoGraphQl", "DemoGraphQl\DemoGraphQl.csproj", "{AE7486A7-F827-41E9-98AA-F6C4126272B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoGraphQl.QueryExtensions", "DemoGraphQl.QueryExtensions\DemoGraphQl.QueryExtensions.csproj", "{BBF587E4-957B-4A73-AE81-922BAD331695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7486A7-F827-41E9-98AA-F6C4126272B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7486A7-F827-41E9-98AA-F6C4126272B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7486A7-F827-41E9-98AA-F6C4126272B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7486A7-F827-41E9-98AA-F6C4126272B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF587E4-957B-4A73-AE81-922BAD331695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF587E4-957B-4A73-AE81-922BAD331695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF587E4-957B-4A73-AE81-922BAD331695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF587E4-957B-4A73-AE81-922BAD331695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E45BDE3D-928A-466E-99A4-CAFCA8F76D78}
+	EndGlobalSection
+EndGlobal
